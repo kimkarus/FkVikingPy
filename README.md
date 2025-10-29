@@ -1,11 +1,17 @@
 #Example 
 
 #\_cfg.login - email 
+
 #\_cfg.token - token key 
+
 #\_cfg.robot_id - robot id 
+
 #\_cfg.portofolio_name - not used, does not affect 
+
 #\_cfg.fkviking_role - user role 
+
 #=\_cfg.fkviking_sec_type - default sec type, 4 = MOEX_FOND
+
 #cfg = NewCfg()
 
 positions, money = getViking(cfg)
